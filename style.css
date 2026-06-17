@@ -3,12 +3,12 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: #222;
+  ;
   font-family: Arial, sans-serif;
 }
 
 .calculator {
-  background: #333;
+  background: #cb9e23;
   padding: 20px;
   border-radius: 10px;
 }
@@ -22,6 +22,7 @@ body {
   padding: 5px;
   border: none;
   border-radius: 5px;
+  background-color: #dce1e3;
 }
 
 .buttons {
@@ -35,13 +36,13 @@ button {
   font-size: 20px;
   border: none;
   border-radius: 5px;
-  background: #555;
-  color: white;
+  background: #208ea1;
+  color: rgb(199, 202, 192);
   cursor: pointer;
 }
 
 button:hover {
-  background: #777;
+  background: #811010;
 }
 .operator {
   background: #f39c12;
